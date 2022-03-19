@@ -1,5 +1,4 @@
 - 👋 Here's @yasinbc
-- 👀 I’m interested in ...
 - 🌱 Currently working in CEMOSA as Software Developer
 - 💞️ Looking for computing hapiness
 - 📫 How to reach me yasyasinbc@gmail.com
