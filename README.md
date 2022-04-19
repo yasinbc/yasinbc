@@ -1,7 +1,7 @@
 - 👋 Here's @yasinbc
 - 🌱 Currently working in CEMOSA as Software Developer
 - 💞️ Looking for computing hapiness
-- 📫 How to reach me yasyasinbc@gmail.com
+- 📫 How to reach me: yasyasinbc@gmail.com
 
 <!---
 yasinbc/yasinbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
