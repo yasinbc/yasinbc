@@ -1,2 +1,2 @@
-- 🌱 Currently working in CEMOSA as SAP ABAP Developer
+- 🌱 Currently working in CEMOSA as software Developer
 - 📫 Reach on: yasyasinbc@gmail.com
